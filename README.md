@@ -1,1 +1,1 @@
-# sky_survey
+Simple Survey Application
